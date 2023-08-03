@@ -19,6 +19,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 # Train
 - [ ] 1. checkpoint 저장시 파일명을 명확하게 해야 나중에 제대로 실험할 때 문제가 없음  
-      1-1. Baseline, Dataset # model/samsumPromptT5Small  
-      1-2. model/날짜/checkpoint  # model/20230803/samsumPromptT5Small  
+         1-1. Baseline, Dataset # model/samsumPromptT5Small  
+         1-2. model/날짜/checkpoint  # model/20230803/samsumPromptT5Small  
 
