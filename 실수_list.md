@@ -6,6 +6,7 @@
 - [ ] 5. valid best checkpoint를 사용함
 - [ ] 6. Test시 모델 파라미터 업데이트 안되고 있는지 확인해야 함.
       ```python
+
       encoder.prompt_embeddings.weight
 
       for name, param in self.encoder.named_parameters():
