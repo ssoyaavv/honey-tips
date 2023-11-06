@@ -27,5 +27,4 @@
             1-2. model/날짜/checkpoint  # model/20230803/samsumPromptT5Small  
 # Eval
 - 다중 정답을 처리할 때 : valid를 어떻게 처리하는지 확인해야 함
-- ![image](https://github.com/ailab-prompt-transfer/Basic_Model_v2.0/assets/111937758/7a6791c8-ed46-415c-9535-c469058547c6)
-- 이 경우 다중 정답을 리스트로 받아야 함
+- 다중 정답을 리스트로 받아야 함
